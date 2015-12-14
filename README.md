@@ -16,3 +16,5 @@ HW/SW Requirements:
 •	3-axis gantry machine (such as CNC routers or 3D printers.) 
 •	LabVIEW 2014, Real-Time, FPGA, and SoftMotion Modules
 You can also run this code in pure PC simulation mode, if you do not have the HW.  This demo supports up to 5 axes of motion, but only 3 are used for this demo.  Code can be easily compiled for other targets.
+
+A Word document is provided in the \Documentation folder.  Please read this document for further information.
